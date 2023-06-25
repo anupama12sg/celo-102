@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-* [Table of Contents](#table-of-contents)
-* [Introduction](#introduction)
-* [Use cases for randomness](#use-cases-for-randomness)
+* [Table of Contents](https://github.com/Simteledev/celo-101/blob/main/README.md#table-of-contents)
+* [Introduction](https://github.com/Simteledev/celo-101/blob/main/README.md#introduction)
+* [Use cases for randomness](https://github.com/Simteledev/celo-101/blob/main/README.md#use-cases-for-randomness)
      * [NFTs](#NFTs)
      * [Games](#Games)
 * [The commit/reveal protocol](#The-commit/reveal-protocol)
-* [Betting game tutorial](#Betting-game-tutorial)
+* [Betting game tutorial](https://github.com/Simteledev/celo-101/blob/main/README.md#casino-betting-game-tutorial)
    * [Setting up the contract](#Setting-up-the-contract)
    * [Transacting with a rollup](#Transacting-with-a-rollup)
    * [Testing the contract](#Testing-the-contract)
