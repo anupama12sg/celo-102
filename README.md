@@ -558,7 +558,7 @@ In this article, we examined a line-by-line review of a Solidity contract for a 
 
 Additionally, we explored various strategies to prevent abuse and hostile actions in blockchain betting games, ensuring fair gameplay and maintaining security.
 
-Ultimately, as long as both sides share an interest in the randomness of the outcome, we can have confidence in the fairness of the results within the Celo blockchain ecosystem.
+Ultimately, as long as both sides share an interest in the randomness of the outcome, we can have confidence in the fairness of the results within the Celo blockchain ecosystem. You can check out the completed project [here](https://github.com/Simteledev/casino-lottery-system)
 
 
 
